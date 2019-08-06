@@ -1,0 +1,14 @@
+label, input
+{
+    display:inline-block;
+    vertical-align: top;
+    width:300px;
+    padding:10px;
+}
+
+div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
